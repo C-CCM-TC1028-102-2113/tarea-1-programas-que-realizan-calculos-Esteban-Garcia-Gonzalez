@@ -1,6 +1,7 @@
 def main():
     #escribe tu código abajo de esta línea
    ##Caracol
+
 print('Dame los minutos:')
 mi=float(input())
 cm= m*34.2
