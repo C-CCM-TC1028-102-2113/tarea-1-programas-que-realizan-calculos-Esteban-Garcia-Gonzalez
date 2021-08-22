@@ -7,7 +7,6 @@ mi=float(input())
 cm= m*34.2
 cr=round(cm,1)
 print('Centímentros recorridos:',cr)
-    pass
 
 if __name__ == '__main__':
     main()
