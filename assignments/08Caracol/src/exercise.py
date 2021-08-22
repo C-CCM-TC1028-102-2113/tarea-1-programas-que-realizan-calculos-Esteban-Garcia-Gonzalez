@@ -6,7 +6,7 @@ cm=0
 print('Dame los minutos:')
 m=float(input())
 cm= m*34.2
-print('Centímetros recorridos:', cm)
+print('Centímentros recorridos:', cm)
     pass
 
 if __name__ == '__main__':
