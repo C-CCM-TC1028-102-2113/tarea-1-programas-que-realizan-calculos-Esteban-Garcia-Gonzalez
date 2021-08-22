@@ -5,7 +5,7 @@ def main():
 
     pt=(jn*1000)+(ju*350)
 
-    print('El total de la compra es: ', pt)
+    print('El total de la compra es: '+ str(pt))
 
     pass
 
