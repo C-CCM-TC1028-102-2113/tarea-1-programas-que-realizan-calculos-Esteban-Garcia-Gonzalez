@@ -1,11 +1,11 @@
 def main():
     #escribe tu código abajo de esta línea
    ##Caracol
-m=0
+mi=0
 cm=0
 cr=0
 print('Dame los minutos:')
-m=float(input())
+mi=float(input())
 cm= m*34.2
 cr=round(cm,1)
 print('Centímentros recorridos:',cr)
