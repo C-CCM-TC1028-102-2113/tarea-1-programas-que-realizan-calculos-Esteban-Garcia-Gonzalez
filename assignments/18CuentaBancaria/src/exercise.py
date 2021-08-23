@@ -8,7 +8,7 @@ def main():
     sf= si-e+i-(nc*13)
     t= sf*(.925)
 
-    print('El saldo final de la cuenta es: '+ str(total))
+    print('El saldo final de la cuenta es: '+ str(t))
 
     pass
 
