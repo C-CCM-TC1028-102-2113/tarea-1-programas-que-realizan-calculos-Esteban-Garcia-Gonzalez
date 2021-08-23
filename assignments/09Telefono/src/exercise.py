@@ -8,7 +8,7 @@ def main():
     pmg=nmg*0.8
     pmi=nmi*0.8
     pt= pmsj+pmg+pmi
-    print('El costo mensual es:', pt)
+    print('El costo mensual es:'+str(pt))
     pass
 
 
